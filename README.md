@@ -7,3 +7,8 @@
 1. 安装依赖：
    ```bash
    pip install -r requirements.txt
+2. 提示（如果要更新内容）：
+   ```bash
+   git add .
+   git commit -m "更新内容"
+   git push
