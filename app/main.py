@@ -7,4 +7,4 @@ def read_root():
 
 @app.get("/user/{name}")
 def greet_user(name: str):
-    return {"message":f"你好，{name}!祝你学习愉快"}
+    return {"message":f"你好，{name}!FastAPI好用吗？"}
